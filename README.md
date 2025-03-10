@@ -5,7 +5,7 @@ Hi 👋 My name is Thomaz Ortiz
 
 *   🌍  I'm from Brazil
 *   🚀  I'm currently working on [Sentry Muralha Digital](https://sentry.com.br/)
-*   🎓  I'm in the 6th semester of Computer Science at [Unianchieta](https://anchieta.br/)
+*   🎓  I'm in the 7th semester of Computer Science at [Unianchieta](https://anchieta.br/)
                   
 ### Skills 
 <p align="left">
