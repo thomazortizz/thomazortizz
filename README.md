@@ -1,11 +1,11 @@
 Hi 👋 My name is Thomaz Ortiz
 ============================
 
-### Full Stack Developer and UI & UX Designer
+### Desenvolvedor Full Stack e P&D de Projetos Digitais
 
 *   🌍  I'm from Brazil
 *   🚀  I'm currently working on [Sentry Muralha Digital](https://sentry.com.br/)
-*   🎓  I'm in the 7th semester of Computer Science at [Unianchieta](https://anchieta.br/)
+*   🎓  I'm in the 8th semester of Computer Science at [Unianchieta](https://anchieta.br/)
                   
 ### Skills 
 <p align="left">
